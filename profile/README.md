@@ -1,1 +1,3 @@
 [![Kudelski Security](https://github.com/kudelskisecurity/.github/raw/main/profile/img/ks_logo.png)](https://www.kudelskisecurity.com/)
+
+This GitHub Organization contains code repositories linked to Kudelski Security research papers, blog-posts, POCs or talks. These projects are usually not maintained on the long run so they are **not** intended to be used in production unless explicitly mentioned in the repository itself. Please [follow this process](https://github.com/kudelskisecurity/.github/blob/main/SECURITY.md) to report security vulnerabilities.
